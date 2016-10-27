@@ -1,0 +1,6 @@
+name: hurdat2
+
+dependencies:
+  - python=3.5
+  - pandas
+  - requests
